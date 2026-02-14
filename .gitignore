@@ -1,0 +1,14 @@
+# IDE
+.idea/
+
+# Java build
+**/target/
+*.class
+
+# Env / secrets
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Logs
+*.log
